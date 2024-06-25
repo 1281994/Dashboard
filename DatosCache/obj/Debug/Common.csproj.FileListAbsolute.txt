@@ -1,0 +1,11 @@
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\DatosCache.dll
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\DatosCache.pdb
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\CapaDatos.dll
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\CapaNegocio.dll
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\CapaDatos.pdb
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\bin\Debug\CapaNegocio.pdb
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\obj\Debug\Common.csproj.Up2Date
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\obj\Debug\DatosCache.dll
+C:\Users\test\source\repos\DashboarDinamico\DatosCache\obj\Debug\DatosCache.pdb
