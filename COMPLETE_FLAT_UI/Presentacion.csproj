@@ -161,12 +161,6 @@
     <Compile Include="Formularios\ProductosFabricados.designer.cs">
       <DependentUpon>ProductosFabricados.cs</DependentUpon>
     </Compile>
-    <Compile Include="Formularios\FormMembresia.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Formularios\FormMembresia.designer.cs">
-      <DependentUpon>FormMembresia.cs</DependentUpon>
-    </Compile>
     <Compile Include="Formularios\MenuPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -216,9 +210,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\ProductosFabricados.resx">
       <DependentUpon>ProductosFabricados.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Formularios\FormMembresia.resx">
-      <DependentUpon>FormMembresia.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>

@@ -92,12 +92,12 @@ namespace COMPLETE_FLAT_UI
         
         private void dataGridView1_CellContentDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            FormMembresia frm = Owner as FormMembresia;
+           // FormMembresia frm = Owner as FormMembresia;
             //FormMembresia frm = new FormMembresia();
 
-            frm.txtid.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
+           // frm.txtid.Text = dataGridView1.CurrentRow.Cells[0].Value.ToString();
             frm.txtnombre.Text = dataGridView1.CurrentRow.Cells[1].Value.ToString();
-            frm.txtapellido.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
+           // frm.txtapellido.Text = dataGridView1.CurrentRow.Cells[2].Value.ToString();
             this.Close();
         }
 

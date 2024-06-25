@@ -27,7 +27,7 @@ namespace COMPLETE_FLAT_UI
             this.DoubleBuffered = true;
             // Establece la posición de inicio del formulario en el centro de la pantalla
             this.StartPosition = FormStartPosition.CenterScreen;
-          CargarCache();
+         // CargarCache();
         }
 
         public void CargarCache()
