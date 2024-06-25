@@ -7,24 +7,8 @@
       "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\formularios\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|C:\\Users\\test\\source\\repos\\Dashboard\\complete_flat_ui\\formularios\\tablainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\formularios\\tablainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|C:\\Users\\test\\source\\repos\\Dashboard\\complete_flat_ui\\formularios\\tablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\formularios\\tablaproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|C:\\Users\\test\\source\\repos\\Dashboard\\complete_flat_ui\\formularios\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\formularios\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|C:\\Users\\test\\source\\repos\\Dashboard\\complete_flat_ui\\formularios\\tablainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\formularios\\tablainventario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|C:\\Users\\test\\source\\repos\\Dashboard\\complete_flat_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\Presentacion.csproj|solutionrelative:complete_flat_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,31 +50,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TablaProductos.cs",
-              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaProductos.cs",
-              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Formularios\\TablaProductos.cs",
-              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaProductos.cs",
-              "RelativeToolTip": "COMPLETE_FLAT_UI\\Formularios\\TablaProductos.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAGMAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:57:46.803Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dashboard.cs",
-              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs",
-              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs",
-              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs*",
-              "RelativeToolTip": "COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs*",
-              "ViewState": "AQIAAA8AAABAn5mZmTk/wBsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:46:36.812Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Dashboard.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs",
@@ -104,37 +63,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TablaInventario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs [Dise\u00F1o]",
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs*",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\Formularios\\Dashboard.cs*",
+              "ViewState": "AQIAABAAAACAPjMzM3MswBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:20:02.039Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TablaInventario.cs",
-              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "RelativeToolTip": "COMPLETE_FLAT_UI\\Formularios\\TablaInventario.cs",
-              "ViewState": "AQIAAAcAAABQaWZmZiYwwBAAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T17:20:06.462Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Program.cs",
-              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\Program.cs",
-              "ToolTip": "C:\\Users\\test\\source\\repos\\Dashboard\\COMPLETE_FLAT_UI\\Program.cs",
-              "RelativeToolTip": "COMPLETE_FLAT_UI\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-25T16:39:54.586Z"
+              "WhenOpened": "2024-06-25T16:46:36.812Z",
+              "EditorCaption": ""
             }
           ]
         }
